@@ -18,5 +18,5 @@ print(type(x))
 y = 3.4
 print(type(y))
 
-#Arithmetic operation of an integer and float will give a float datatype
+#Arithmetic operation of an integer and float will give a float datatype. x will be casted as a float before the operation.
 print(type(x + y))
