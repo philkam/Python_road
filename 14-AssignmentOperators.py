@@ -8,6 +8,7 @@ Modulus and assign -> %=
 Exponent and assign -> **=
 Floor and assign -> //=
 
+This is mostly used if one is using the previous value of a variable
 """
 #Usage
 
