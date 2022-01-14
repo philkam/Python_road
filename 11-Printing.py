@@ -11,7 +11,7 @@
 print("I am a male")
 x = 8
 print(f"The current value of X is {x}") #f is placed to make the x variable print in case it is dynamic
-print("The current value of x is ",x) #another way of printing dynamically
+print("The current value of x is ", x) #another way of printing dynamically
 
 string_intro = "{first_name} Ansah is teaching programming"
 print(string_intro.format(first_name="any name"))
